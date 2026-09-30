@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Predictor Scan - Instant League 8035",
+  "description": "Outil d'analyse statistique et de scan OCR pour les matchs de l'Instant League 8035 Bet261 : cotes 1X2, classement, forme et estimation probabiliste.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
